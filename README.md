@@ -58,7 +58,7 @@ The practical work included:
 * Working with CSV data
 * Reviewing the cleaned data
 
-➡️ View my Excel Data Cleaning Project
+➡️ [View my Excel Data Cleaning Project](https://github.com/MAbueisa/excel-data-cleaning)
 
 Learning Approach
 
