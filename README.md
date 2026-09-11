@@ -2,27 +2,27 @@ Google Data Analytics Professional Certificate
 
 Welcome to my Google Data Analytics learning journey.
 
-This repository documents my progress, practical exercises, and projects throughout the Google Data Analytics Professional Certificate.
+This repository documents my progress, practical exercises, skills, and projects throughout the Google Data Analytics Professional Certificate.
 
-I am developing practical skills in data analytics through hands-on exercises, working with datasets, cleaning and preparing data, and applying analytical techniques using spreadsheets and SQL.
+My focus is on building practical data analytics skills through hands-on work with spreadsheets, SQL, data cleaning, analysis, and data visualization.
 
 ⸻
 
-📚 Certificate Progress
+Certificate Progress
 
 * Course 1 — Foundations: Data, Data, Everywhere
 * Course 2 — Ask Questions to Make Data-Driven Decisions
 * Course 3 — Prepare Data for Exploration
 * Course 4 — Process Data from Dirty to Clean
-* [🔄] Course 5 — Analyze Data to Answer Questions — 8% Complete
-* Course 6 — Share Data Through the Art of Data Visualization
+* Course 5 — Analyze Data to Answer Questions
+* Course 6 — Share Data Through the Art of Visualization — In Progress
 * Course 7 — Introduction to Data Analysis Using Python
 * Course 8 — Google Data Analytics Capstone: Complete a Case Study
 * Course 9 — Accelerate Your Job Search with AI
 
 ⸻
 
-🧠 Skills & Topics Learned So Far
+Skills & Topics
 
 Data Analytics
 
@@ -30,101 +30,68 @@ Data Analytics
 * Data-driven decision making
 * Asking analytical questions
 * Data preparation
+* Data cleaning
 * Data organization
 * Data quality
-* Data cleaning
-* Preparing data for analysis
-* Working with datasets
-* Sorting and organizing data
-
-SQL
-
-As part of my data analytics learning journey, I have also developed foundational SQL knowledge and practiced using SQL for working with data.
-
-I will continue documenting the SQL techniques and practical exercises I learn throughout the certificate.
+* Data analysis
+* Data visualization
 
 Microsoft Excel
 
-I have practiced working with datasets using Microsoft Excel and spreadsheets.
-
-Skills practiced include:
-
+* Data cleaning and preparation
 * Sorting and organizing data
-* Working with CSV files
-* Cleaning inconsistent data
-* Removing unnecessary spaces
-* Extracting text from cells
-* Combining information from multiple cells
-* Find & Replace
-* Preparing datasets for analysis
+* CSV files
+* Text functions
+* VLOOKUP
+* Conditional functions
+* PivotTables
+* PivotCharts
+* Calculated Fields
+* Basic data analysis
 
-Excel Functions Practiced
+SQL
 
-* LEN
-* TRIM
-* LEFT
-* RIGHT
-* MID
-* CONCATENATE
-
-⸻
-
-🧹 Data Cleaning Practice
-
-During the data cleaning stage of the certificate, I completed practical exercises using Microsoft Excel.
-
-The activities included:
-
-* Reviewing datasets before cleaning
-* Identifying data quality issues
-* Cleaning and organizing data
-* Extracting specific parts of text
-* Combining information from different cells
-* Removing unnecessary spaces
-* Using Find & Replace
-* Working with CSV files
-* Sorting and organizing datasets
-* Reviewing cleaned data
-* Comparing data before and after cleaning
-* Preparing data for further analysis
+* Filtering and sorting data
+* GROUP BY
+* Data cleaning with SQL
+* Working with datasets
+* Data analysis techniques
 
 ⸻
 
-📊 Practical Project
+Practical Projects
 
-Excel Data Cleaning
+Excel Data Cleaning & Analysis
 
-A practical data cleaning project completed during my Google Data Analytics learning journey.
+A practical Excel project completed during my Google Data Analytics learning journey.
 
-The project demonstrates how I applied Excel techniques to clean, organize, and prepare a dataset for further analysis.
+The project covers data cleaning, data preparation, Excel functions, lookups, conditional analysis, PivotTables, PivotCharts, and basic financial and sales analysis.
 
-The project includes examples of the dataset before and after applying data cleaning techniques.
+View the Excel Data Cleaning & Analysis Project
 
-➡️  [View my Excel Data Cleaning Project](https://github.com/MAbueisa/excel-data-cleaning)
-
-⸻
-
-📈 Current Learning
-
-Course 5 — Analyze Data to Answer Questions
-
-Current Progress: 8%
-
-I am currently learning how to analyze data and use analytical techniques to answer questions and generate insights.
-
-My current lesson is focused on:
-
-* Sorting data in spreadsheets
-* Organizing data for analysis
-* Working with spreadsheet data
-
-I will continue updating this section as I progress through the course.
+More projects will be added as I progress through the certificate.
 
 ⸻
 
-🛠️ Tools
+Current Learning
 
-Currently Practiced
+Course 6 — Share Data Through the Art of Visualization
+
+I am currently learning how to communicate data effectively through visualization and data storytelling.
+
+Current topics include:
+
+* Data visualization
+* Designing data visualizations
+* Data storytelling
+* Principles of effective visualization
+* Presenting data and insights
+
+⸻
+
+Tools
+
+Currently Practicing
 
 * Microsoft Excel
 * SQL
@@ -137,31 +104,21 @@ Coming Later
 * Python
 * Pandas
 * NumPy
-* AI tools
 * Data Analytics Capstone
+* AI tools for data analytics
 
 ⸻
 
-🚀 Learning Approach
+Learning Approach
 
-I focus on applying what I learn through practical exercises rather than only completing course content.
+I focus on applying what I learn through practical exercises and projects rather than only completing course content.
 
-I document the skills I practice and the projects I complete as I continue developing my data analytics portfolio.
+I document my progress, skills, and projects as I continue building my data analytics portfolio.
 
 This repository will be updated throughout my learning journey.
 
 ⸻
 
-📁 Projects
-
-Excel Data Cleaning
-
-Practical data cleaning project completed during my Google Data Analytics learning journey.
-
-More projects will be added as I progress through the certificate.
-
-⸻
-
-🔗 Connect With Me
+Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/mohammed-abueisa
