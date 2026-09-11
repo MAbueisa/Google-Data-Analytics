@@ -67,7 +67,7 @@ A practical Excel project completed during my Google Data Analytics learning jou
 
 The project covers data cleaning, data preparation, Excel functions, lookups, conditional analysis, PivotTables, PivotCharts, and basic financial and sales analysis.
 
-View the Excel Data Cleaning & Analysis Project
+[View the Excel Data Cleaning & Analysis Project](https://github.com/MAbueisa/excel-data-cleaning-and-analysis)
 
 More projects will be added as I progress through the certificate.
 
